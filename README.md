@@ -1,12 +1,15 @@
 # Cybersecurity
+# Important links to get to know me more:
+> [Medium Page](https://felipe-salles.medium.com/)
+> 
+> [Try Hack Me Profile](https://tryhackme.com/p/f311peBR)
+
+
 ## CTF Writeups by Felipe Salles
 
 ![logo](https://github.com/felipemsalles/CTF-Writeups/blob/main/logo.jpeg?raw=true)
 
-# Medium
-> [Medium Page](https://felipe-salles.medium.com/)
-
-# Links
+-Links:
 
 - [Learn Linux - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-ctf-learn-linux-f2c4569d496b)
 - [Web Fundamentals - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-ctf-web-fundamentals-22af8cacedd6)
