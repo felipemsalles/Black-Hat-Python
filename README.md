@@ -7,8 +7,6 @@
 
 ## CTF Writeups by Felipe Salles
 
-![logo](https://github.com/felipemsalles/CTF-Writeups/blob/main/logo.jpeg?raw=true)
-
 -Links:
 
 - [Learn Linux - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-ctf-learn-linux-f2c4569d496b)
