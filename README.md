@@ -1,9 +1,16 @@
 # Cyber Security
 # Important links to get to know me more:
+> [BLOG](https://blogfelipe.com/)
+> [My Page](https://felipemsalles.github.io/)
 > [Medium Page](https://felipe-salles.medium.com/)
 > 
 > [Try Hack Me Profile](https://tryhackme.com/p/f311peBR)
 
+## Cyber Security Artciles by Felipe Salles
+
+-Links:
+
+- [The impacts of Crises in the Digital Revolution](https://felipe-salles.medium.com/the-impacts-of-crises-in-the-digital-revolution-9ae730b8911)
 
 ## CTF Writeups by Felipe Salles
 
