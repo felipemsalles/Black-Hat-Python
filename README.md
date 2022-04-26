@@ -1,4 +1,4 @@
-# Cybersecurity
+# Cyber Security
 # Important links to get to know me more:
 > [Medium Page](https://felipe-salles.medium.com/)
 > 
