@@ -1,7 +1,9 @@
 # Cyber Security
 # Important links to get to know me more:
 > [BLOG](https://blogfelipe.com/)
-> [My Page](https://felipemsalles.github.io/)
+> 
+> [MY PAGE](https://felipemsalles.github.io/)
+> 
 > [Medium Page](https://felipe-salles.medium.com/)
 > 
 > [Try Hack Me Profile](https://tryhackme.com/p/f311peBR)
