@@ -8,7 +8,7 @@
 > 
 > [Try Hack Me Profile](https://tryhackme.com/p/f311peBR)
 
-## Cyber Security Artciles by Felipe Salles
+## Cyber Security Articles by Felipe Salles
 
 -Links:
 
