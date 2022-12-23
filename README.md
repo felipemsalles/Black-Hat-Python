@@ -1,4 +1,4 @@
-# Cyber Security
+# Cyber Security Studies
 # Important links to get to know me more:
 > [BLOG](https://blogfelipe.com/)
 > 
