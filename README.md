@@ -24,6 +24,7 @@
 - [OpenVPN - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-openvpn-a5b655cd8289)
 ## Challenging myself
 
+![daysofcyber](https://github.com/felipemsalles/Cybersecurity-Studies/blob/main/assets/88daysofcyber.png?raw=true)
 
 ## Books
 
