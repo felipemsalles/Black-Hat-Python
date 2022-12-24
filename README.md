@@ -8,7 +8,7 @@
 > 
 > [Try Hack Me Profile](https://tryhackme.com/p/f311peBR)
 
-## Cyber Security Artciles by Felipe Salles
+## Cyber Security Articles by Felipe Salles
 
 -Links:
 
@@ -22,6 +22,8 @@
 - [Web Fundamentals - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-ctf-web-fundamentals-22af8cacedd6)
 - [Introductory Research - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-introductory-researching-d9c2daf29032)
 - [OpenVPN - Try Hack Me CTF](https://felipe-salles.medium.com/try-hack-me-openvpn-a5b655cd8289)
+## Challenging myself
+
 
 ## Books
 
